@@ -1,10 +1,10 @@
 # Research
 
 
-- Anonymous Cryptocurrency. Yan Chen, Zijie Liu, Liang Xu and Zhengjie Huang.
+- [Anonymous Cryptocurrency](./anonymous-cryptocurrency). Yan Chen, Zijie Liu, Liang Xu and Zhengjie Huang.
   * Privacy
   
-    CT (Monero RingCT & schnorr) - who
+    [CT (Monero RingCT & schnorr)](./anonymous-cryptocurrency/xx) - who
   
     Zk-SNARK (Zcash) - who 
   
@@ -54,6 +54,7 @@
 
  
 - Decentralized Storage
+
     IPFS、Maidsafe、Filecoin、Sia
     
     Bittorrent、DHT、privacy xxx
