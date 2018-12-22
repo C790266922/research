@@ -1,10 +1,9 @@
-# Research
-
+# Bithack Research
 
 - [Anonymous Cryptocurrency](./anonymous-cryptocurrency). Yan Chen, Zijie Liu, Liang Xu and Zhengjie Huang.
-  * Privacy
+  * [Privacy](./anonymous-cryptocurrency/xx)
   
-    [CT (Monero RingCT & schnorr)](./anonymous-cryptocurrency/xx) - who
+    CT (Monero RingCT & schnorr) - who
   
     Zk-SNARK (Zcash) - who 
   
