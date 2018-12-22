@@ -52,7 +52,8 @@
     
     ZeroNet
 
-  - Decentralized Storage
+ 
+- Decentralized Storage
     IPFS、Maidsafe、Filecoin、Sia
     
     Bittorrent、DHT、privacy xxx
