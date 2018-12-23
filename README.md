@@ -1,68 +1,88 @@
-# Research
+# Bithack Research
 
+Time: 19.1.12 - 19.1.13
 
-- Anonymous Cryptocurrency. Yan Chen, Zijie Liu, Liang Xu and Zhengjie Huang
-  - Privacy
-    - Monero RingCT - Liang Xu
-    - Zcash zk-SNARK - Liang Xu
-    - Schnorr - Zijie Liu & Zhengjie Huang
-    - Grin Mimblewimble - Zijie Liu & Zhengjie Huang
-    - Tor Hidden Service - Zhengjie Huang
-  - Difficulty Retarget - Yan Chen
-    - [Bitcoin](./btc.md)
-    - Monero
-    - Masari
-  - Anti-ASIC POW - Yan Chen
-    - [Bitcoin](./btc.md)
-    - Cuckoo Cycle
-    - Pascal Random Hash
+Location: Zhejiang University
 
+Welcome to attend our research report!
 
-- Layer 2. Tianyao Gao.
-  * State Channel 
-  
-   （btc-lightning & Funfair & SpankChain)  可以先做这块
-  
-  * Sidechain (Plasma)
+## AI + Blockchain
 
-  * Truebit
+Member: Qibing Li.
 
-- Cross-chain Technologies.
-  * Cosmos
-  
-    xxx
-    
-    xxx
-  * Polkadot
-  
-    xxx
-    
-    xxx
+- AI DAO & AI Smart Contract
+- Data and Model Marketplace
+- Decentralized Learning
+  - Federated Learning
+  - Multi-Agent Communication
+- Privacy-preserving Machine Learning
+  - Homomorphic Encryption
+  - Secure Multi-Party Computing
+  - Adversarial Neural Cryptography
 
-- Decentralized Web.
-  * Identity
-  
-    DPKI (DID, Civic)
-    
-    DNS & CA (Namecoin, Handshake)
-    
-  * Dweb
-    Linked data (solid)
-    
-    Blockstack
-    
-    ZeroNet
+## Anonymous Cryptocurrency
 
+Member: Yan Chen, Zijie Liu, Liang Xu and Zhengjie Huang.
 
-- Decentralized Storage
-    IPFS、Maidsafe、Filecoin、Sia
-    
-    Bittorrent、DHT、privacy xxx
-  
-- Video & Social Network
+- Privacy
+  - Monero RingCT - Liang Xu
+  - Zcash zk-SNARK - Liang Xu
+  - Schnorr - Zijie Liu & Zhengjie Huang
+  - Grin Mimblewimble - Zijie Liu & Zhengjie Huang
+  - Tor Hidden Service - Zhengjie Huang
+- Difficulty Retarget - Yan Chen
+  - [Bitcoin](./btc.md)
+  - Monero
+  - Masari
+- Anti-ASIC POW - Yan Chen
+  - [Bitcoin](./btc.md)
+  - Cuckoo Cycle
+  - Pascal Random Hash
 
-  xxx
+## Layer 2
 
-- Artificial intelligence
+Member: Tianyao Gao.
 
-  xxx
+- State Channel (可以先只做这块)
+  - BTC Lightning
+  - Funfair and SpankChain
+- Sidechain (Plasma)
+- Truebit
+
+## Cross-chain Technologies
+
+Member: Yiping Chen, Guanjie Cheng, Zhenyu Zheng, Le Liu, Zhengjie Huang and Jingru Li.
+
+- Cosmos
+  - Tendermint & Zone and Hub & Iris ...
+- Polkadot
+  - POA & Relaychain
+  - Parachain & Substract
+  - Wasm and Governance
+
+## Decentralized Web
+
+Member: Zepei Lin, Zhengjie Huang, Xiaowen Xu and Yusheng Zhou.
+
+- Digital Identity
+  - DPKI (DID, Civic)
+  - DNS & CA (Namecoin, Handshake)
+- Dweb
+  - Linked Data (Solid)
+  - Blockstack
+  - ZeroNet
+
+## Decentralized Storage
+
+Member: Yusheng Zhou, Zhengjie Huang, Jueyu Li, Baobao Jia and Weifeng He.
+
+- Bittorrent and DHT
+- IPFS and Sia
+- DInternet & Privacy (Maidsafe)
+
+## Video & Social Network Applications
+
+Member: Jiuli Chen, Wan Liu, Renqian Zhang and Yu Cai.
+
+- Mastodon (Activitypub)
+- Peertube (Webtorrent & RTC)
