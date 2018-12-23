@@ -1,21 +1,22 @@
 # Research
 
 
-- Anonymous Cryptocurrency. Yan Chen, Zijie Liu, Liang Xu and Zhengjie Huang.
-  * Privacy
-  
-    CT (Monero RingCT & schnorr) - who
-  
-    Zk-SNARK (Zcash) - who 
-  
-    Mimblewimble (grin) - who
-  
-    Tor (hidden service) - who
+- Anonymous Cryptocurrency. Yan Chen, Zijie Liu, Liang Xu and Zhengjie Huang
+  - Privacy
+    - Monero RingCT - Liang Xu
+    - Zcash zk-SNARK - Liang Xu
+    - Schnorr - Zijie Liu & Zhengjie Huang
+    - Grin Mimblewimble - Zijie Liu & Zhengjie Huang
+    - Tor Hidden Service - Zhengjie Huang
+  - Difficulty Retarget - Yan Chen
+    - [Bitcoin](./btc.md)
+    - Monero
+    - Masari
+  - Anti-ASIC POW - Yan Chen
+    - [Bitcoin](./btc.md)
+    - Cuckoo Cycle
+    - Pascal Random Hash
 
-  * Difficulty Algorithm (Monero & Masari) - who 
- 
-  * Anti-ASIC POW (Cuckoo Cycle, Pascal Random-hash) - Yan Chen
- 
 
 - Layer 2. Tianyao Gao.
   * State Channel 
@@ -52,7 +53,7 @@
     
     ZeroNet
 
- 
+
 - Decentralized Storage
     IPFS、Maidsafe、Filecoin、Sia
     

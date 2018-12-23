@@ -3,9 +3,9 @@ Member: Yan Chen, Zijie Liu, Liang Xu and Zhengjie Huang.
 - Privacy
   - Monero RingCT - Liang Xu
   - Zcash zk-SNARK - Liang Xu
-  - Schnorr - Zijie Liu & Zhengjie Huang
-  - Grin Mimblewimble - Zijie Liu & Zhengjie Huang
-  - Tor Hidden Service
+  - Schnorr - Zijie Liu
+  - Grin Mimblewimble - Zijie Liu
+  - Tor Hidden Service - Zhengjie Huang
 - Difficulty Retarget - Yan Chen
   - [Bitcoin](./btc.md)
   - Monero
