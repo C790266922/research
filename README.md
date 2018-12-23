@@ -99,8 +99,8 @@ Welcome to attend our research report!
 * DInternet & Privacy (Maidsafe)
       
 ## Video & Social Network Applications
-  Member: Zepei Lin, Zhengjie Huang, Xiaowen Xu and Yusheng Zhou.
-  
+  Member: Jiuli Chen, Wan Liu, Renqian Zhang and Yu Cai.
+
 * Mastodon (Activitypub)
   
 * Peertube (Webtorrent & RTC)
