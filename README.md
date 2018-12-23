@@ -8,15 +8,15 @@
 
   * [Decentralized Learning](./artificial-intelligence/xx)
   
-   Federated Learning
+    Federated Learning
    
   * [Privacy-preserving ML](./artificial-intelligence/xx)
   
-   Homomorphic Encryption
+    Homomorphic Encryption
    
-   Secure Multi-Party Computing
+    Secure Multi-Party Computing
    
-   Adversarial Neural Cryptography
+    Adversarial Neural Cryptography
      
 
 - [Anonymous Cryptocurrency](./anonymous-cryptocurrency). Yan Chen, Zijie Liu, Liang Xu and Zhengjie Huang.
