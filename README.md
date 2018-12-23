@@ -9,17 +9,17 @@ Welcome to attend our research report!
 ## AI + Blockchain
   Member: Qibing Li.
 
-* [AI DAO & AI Smart Contract](./artificial-intelligence/xx)
+* AI DAO & AI Smart Contract
 
-* [Data and Model Marketplace](./artificial-intelligence/xx)
+* Data and Model Marketplace
 
-* [Decentralized Learning](./artificial-intelligence/xx)
+* Decentralized Learning
   
   * Federated Learning
     
   * Multi-Agent Communication
     
-* [Privacy-preserving Machine Learning](./artificial-intelligence/xx)
+* Privacy-preserving Machine Learning
   
   * Homomorphic Encryption
    
@@ -33,15 +33,15 @@ Welcome to attend our research report!
   
 * [Privacy](./anonymous-cryptocurrency/xx)
   
-  * CT (Monero RingCT & schnorr) - who
+  * Monero RingCT
   
-  * ZKP (Zcash zk-SNARK) - who 
+  * Zcash zk-SNARK
   
-  * Mimblewimble (grin) - who
+  * Grin Mimblewimble
   
-  * Tor (hidden service) - who
+  * Tor Hidden Service
   
-* Difficulty Algorithm (Monero & Masari) - who 
+* Difficulty Algorithm (Monero & Masari)
  
   * Anti-ASIC POW (Cuckoo Cycle, Pascal Random-hash) - Yan Chen
  
@@ -51,7 +51,7 @@ Welcome to attend our research report!
   
 * State Channel 
   
-  * btc-lightning & Funfair & SpankChain 时间关系可以先做这块
+  * btc-lightning & Funfair & SpankChain (可以先只做这块)
   
 * Sidechain (Plasma)
 
