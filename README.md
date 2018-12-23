@@ -1,20 +1,10 @@
 # Bithack Research
 
-Time: 19.1.12 - 19.1.13 Welcome to attend the research report!
+Time: 19.1.12 - 19.1.13
 
-匿名币：陈岩 刘子杰 徐亮 黄诤杰
+Location: Zhejiang University
 
-跨链：陈怡萍 程冠杰 郑镇宇 刘乐 黄诤杰 李靖儒
-
-存储：周宇盛 黄诤杰 李钰宇 贾报报 何伟峰
-
-去中心化Web和数字身份：林泽培 黄诤杰 徐霄雯 周宇盛
-
-Layer2: 高天尧
-
-视频社交：陈九历 刘万 张仁谦 蔡钰
-
-AI+Blockchain：李其柄
+Welcome to attend our research report!
 
 ## Artificial Intelligence
   Member: Qibing Li.
@@ -27,6 +17,8 @@ AI+Blockchain：李其柄
   
     Federated Learning
     
+    Multi-Agent Communication
+    
 * [Privacy-preserving ML](./artificial-intelligence/xx)
   
     Homomorphic Encryption
@@ -36,7 +28,9 @@ AI+Blockchain：李其柄
     Adversarial Neural Cryptography
      
 
-- [Anonymous Cryptocurrency](./anonymous-cryptocurrency). Yan Chen, Zijie Liu, Liang Xu and Zhengjie Huang.
+## Anonymous Cryptocurrency
+  Member: Yan Chen, Zijie Liu, Liang Xu and Zhengjie Huang.
+  
   * [Privacy](./anonymous-cryptocurrency/xx)
   
     CT (Monero RingCT & schnorr) - who
@@ -52,48 +46,63 @@ AI+Blockchain：李其柄
   * Anti-ASIC POW (Cuckoo Cycle, Pascal Random-hash) - Yan Chen
  
 
-- Layer 2. Tianyao Gao.
+## Layer 2
+  Member: Tianyao Gao.
+  
   * State Channel 
   
-   （btc-lightning & Funfair & SpankChain)  可以先做这块
+    btc-lightning & Funfair & SpankChain 时间关系可以先做这块
   
   * Sidechain (Plasma)
 
   * Truebit
 
-- Cross-chain Technologies.
+## Cross-chain Technologies
+  Member: Yiping Chen, Guanjie Cheng, Zhenyu Zheng, Le Liu, Zhengjie Huang and Jingru Li.
+
   * Cosmos
   
-    xxx
+    Tendermint & Zone and Hub & Iris ...
     
-    xxx
   * Polkadot
   
-    xxx
+    POA & Relaychain
     
-    xxx
+    Parachain & Substract
+    
+    Wasm and Governance
 
-- Decentralized Web. Zhe
-  * Identity
+## Decentralized Web 
+  Member: Zepei Lin, Zhengjie Huang, Xiaowen Xu and Yusheng Zhou.
+
+  * Digital Identity
   
     DPKI (DID, Civic)
     
     DNS & CA (Namecoin, Handshake)
     
   * Dweb
-    Linked data (solid)
+  
+    Linked data (Solid)
     
     Blockstack
     
     ZeroNet
 
- 
-- Decentralized Storage
-
-    IPFS、Maidsafe、Filecoin、Sia
-    
-    Bittorrent、DHT、privacy xxx
+## Decentralized Storage
+  Member: Yusheng Zhou, Zhengjie Huang, Jueyu Li, Baobao Jia and Weifeng He.
   
-- Video & Social Network
+    * Bittorrent and DHT
+    
+    * IPFS and Sia
+    
+    * DInternet & Privacy (Maidsafe)
+      
+## Video & Social Network Applications
+  Member: Zepei Lin, Zhengjie Huang, Xiaowen Xu and Yusheng Zhou.
+    
+    * Mastodon (Activitypub)
+    
+    * Peertube (Webtorrent & RTC)
 
-  xxx
+
