@@ -7,11 +7,15 @@
   * [Data and Model Marketplace](./artificial-intelligence/xx)
 
   * [Decentralized Learning](./artificial-intelligence/xx)
+  
    Federated Learning
    
   * [Privacy-preserving ML](./artificial-intelligence/xx)
+  
    Homomorphic Encryption
+   
    Secure Multi-Party Computing
+   
    Adversarial Neural Cryptography
      
 
