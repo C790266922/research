@@ -6,7 +6,7 @@ Location: Zhejiang University
 
 Welcome to attend our research report!
 
-## Artificial Intelligence
+## AI + Blockchain
   Member: Qibing Li.
 
  * [AI DAO & AI Smart Contract](./artificial-intelligence/xx)
@@ -92,17 +92,17 @@ Welcome to attend our research report!
 ## Decentralized Storage
   Member: Yusheng Zhou, Zhengjie Huang, Jueyu Li, Baobao Jia and Weifeng He.
   
-    * Bittorrent and DHT
-    
-    * IPFS and Sia
-    
-    * DInternet & Privacy (Maidsafe)
+  * Bittorrent and DHT
+  
+  * IPFS and Sia
+  
+  * DInternet & Privacy (Maidsafe)
       
 ## Video & Social Network Applications
   Member: Zepei Lin, Zhengjie Huang, Xiaowen Xu and Yusheng Zhou.
-    
-    * Mastodon (Activitypub)
-    
-    * Peertube (Webtorrent & RTC)
+  
+  * Mastodon (Activitypub)
+  
+  * Peertube (Webtorrent & RTC)
 
 
