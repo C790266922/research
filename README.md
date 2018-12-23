@@ -16,16 +16,18 @@ Layer2: 高天尧
 
 AI+Blockchain：李其柄
 
-- [Artificial intelligence](./artificial-intelligence). Qibing Li.
-  * [AI DAO & AI Smart Contract](./artificial-intelligence/xx)
-  
-  * [Data and Model Marketplace](./artificial-intelligence/xx)
+## Artificial Intelligence
+  Member: Qibing Li.
 
-  * [Decentralized Learning](./artificial-intelligence/xx)
+ * [AI DAO & AI Smart Contract](./artificial-intelligence/xx)
+
+ * [Data and Model Marketplace](./artificial-intelligence/xx)
+
+ * [Decentralized Learning](./artificial-intelligence/xx)
   
     Federated Learning
-   
-  * [Privacy-preserving ML](./artificial-intelligence/xx)
+    
+* [Privacy-preserving ML](./artificial-intelligence/xx)
   
     Homomorphic Encryption
    
