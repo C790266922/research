@@ -1,5 +1,6 @@
 # Bithack Research
 
+Time: 19.1.12 - 19.1.13 Welcome to attend the research report!
 
 - [Artificial intelligence](./artificial-intelligence). Qibing Li.
   * [AI DAO & AI Smart Contract](./artificial-intelligence/xx)
