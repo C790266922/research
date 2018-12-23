@@ -1,5 +1,20 @@
 # Bithack Research
 
+
+- [Artificial intelligence](./artificial-intelligence). Qibing Li.
+  * [AI DAO & AI Smart Contract](./artificial-intelligence/xx)
+  
+  * [Data and Model Marketplace](./artificial-intelligence/xx)
+
+  * [Decentralized Learning](./artificial-intelligence/xx)
+   Federated Learning
+   
+  * [Privacy-preserving ML](./artificial-intelligence/xx)
+   Homomorphic Encryption
+   Secure Multi-Party Computing
+   Adversarial Neural Cryptography
+     
+
 - [Anonymous Cryptocurrency](./anonymous-cryptocurrency). Yan Chen, Zijie Liu, Liang Xu and Zhengjie Huang.
   * [Privacy](./anonymous-cryptocurrency/xx)
   
@@ -59,9 +74,5 @@
     Bittorrent、DHT、privacy xxx
   
 - Video & Social Network
-
-  xxx
-
-- Artificial intelligence
 
   xxx
