@@ -31,7 +31,7 @@ Welcome to attend our research report!
 ## Anonymous Cryptocurrency
   Member: Yan Chen, Zijie Liu, Liang Xu and Zhengjie Huang.
   
-* [Privacy](./anonymous-cryptocurrency/xx)
+* Privacy
   
   * Monero RingCT
   
@@ -52,10 +52,12 @@ Welcome to attend our research report!
 ## Layer 2
   Member: Tianyao Gao.
   
-* State Channel 
+* State Channel (可以先只做这块)
   
-  * btc-lightning & Funfair & SpankChain (可以先只做这块)
+  * BTC Lightning
   
+  * Funfair and SpankChain
+    
 * Sidechain (Plasma)
 
 * Truebit
