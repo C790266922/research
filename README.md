@@ -19,7 +19,7 @@ Welcome to attend our research report!
     
     Multi-Agent Communication
     
-* [Privacy-preserving ML](./artificial-intelligence/xx)
+* [Privacy-preserving Machine Learning](./artificial-intelligence/xx)
   
     Homomorphic Encryption
    
@@ -35,7 +35,7 @@ Welcome to attend our research report!
   
     CT (Monero RingCT & schnorr) - who
   
-    Zk-SNARK (Zcash) - who 
+    ZKP (Zcash zk-SNARK) - who 
   
     Mimblewimble (grin) - who
   
