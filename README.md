@@ -43,8 +43,11 @@ Welcome to attend our research report!
   
 * Difficulty Algorithm (Monero & Masari)
  
-  * Anti-ASIC POW (Cuckoo Cycle, Pascal Random-hash) - Yan Chen
- 
+* Anti-ASIC POW - Yan Chen
+
+  * Cuckoo Cycle 
+  
+  * Pascal Random Hash 
 
 ## Layer 2
   Member: Tianyao Gao.
