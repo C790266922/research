@@ -2,6 +2,14 @@
 
 Time: 19.1.12 - 19.1.13 Welcome to attend the research report!
 
+匿名币：陈岩 刘子杰 徐亮 黄诤杰
+跨链：陈怡萍 程冠杰 郑镇宇 刘乐 黄诤杰 李靖儒
+存储：周宇盛 黄诤杰 李钰宇 贾报报 何伟峰
+去中心化Web和数字身份：林泽培 黄诤杰 徐霄雯 周宇盛
+Layer2: 高天尧
+视频社交：陈九历 刘万 张仁谦 蔡钰
+AI+Blockchain：李其柄
+
 - [Artificial intelligence](./artificial-intelligence). Qibing Li.
   * [AI DAO & AI Smart Contract](./artificial-intelligence/xx)
   
@@ -57,7 +65,7 @@ Time: 19.1.12 - 19.1.13 Welcome to attend the research report!
     
     xxx
 
-- Decentralized Web.
+- Decentralized Web. Zhe
   * Identity
   
     DPKI (DID, Civic)
