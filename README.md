@@ -9,39 +9,39 @@ Welcome to attend our research report!
 ## AI + Blockchain
   Member: Qibing Li.
 
- * [AI DAO & AI Smart Contract](./artificial-intelligence/xx)
+* [AI DAO & AI Smart Contract](./artificial-intelligence/xx)
 
- * [Data and Model Marketplace](./artificial-intelligence/xx)
+* [Data and Model Marketplace](./artificial-intelligence/xx)
 
- * [Decentralized Learning](./artificial-intelligence/xx)
+* [Decentralized Learning](./artificial-intelligence/xx)
   
-    Federated Learning
+  * Federated Learning
     
-    Multi-Agent Communication
+  * Multi-Agent Communication
     
 * [Privacy-preserving Machine Learning](./artificial-intelligence/xx)
   
-    Homomorphic Encryption
+  * Homomorphic Encryption
    
-    Secure Multi-Party Computing
+  * Secure Multi-Party Computing
    
-    Adversarial Neural Cryptography
+  * Adversarial Neural Cryptography
      
 
 ## Anonymous Cryptocurrency
   Member: Yan Chen, Zijie Liu, Liang Xu and Zhengjie Huang.
   
-  * [Privacy](./anonymous-cryptocurrency/xx)
+* [Privacy](./anonymous-cryptocurrency/xx)
   
-    CT (Monero RingCT & schnorr) - who
+  * CT (Monero RingCT & schnorr) - who
   
-    ZKP (Zcash zk-SNARK) - who 
+  * ZKP (Zcash zk-SNARK) - who 
   
-    Mimblewimble (grin) - who
+  * Mimblewimble (grin) - who
   
-    Tor (hidden service) - who
-
-  * Difficulty Algorithm (Monero & Masari) - who 
+  * Tor (hidden service) - who
+  
+* Difficulty Algorithm (Monero & Masari) - who 
  
   * Anti-ASIC POW (Cuckoo Cycle, Pascal Random-hash) - Yan Chen
  
@@ -49,60 +49,60 @@ Welcome to attend our research report!
 ## Layer 2
   Member: Tianyao Gao.
   
-  * State Channel 
+* State Channel 
   
-    btc-lightning & Funfair & SpankChain 时间关系可以先做这块
+  * btc-lightning & Funfair & SpankChain 时间关系可以先做这块
   
-  * Sidechain (Plasma)
+* Sidechain (Plasma)
 
-  * Truebit
+* Truebit
 
 ## Cross-chain Technologies
   Member: Yiping Chen, Guanjie Cheng, Zhenyu Zheng, Le Liu, Zhengjie Huang and Jingru Li.
 
-  * Cosmos
+* Cosmos
   
-    Tendermint & Zone and Hub & Iris ...
+  * Tendermint & Zone and Hub & Iris ...
     
-  * Polkadot
+* Polkadot
   
-    POA & Relaychain
+  * POA & Relaychain
     
-    Parachain & Substract
+  * Parachain & Substract
     
-    Wasm and Governance
+  * Wasm and Governance
 
 ## Decentralized Web 
   Member: Zepei Lin, Zhengjie Huang, Xiaowen Xu and Yusheng Zhou.
 
-  * Digital Identity
+* Digital Identity
   
-    DPKI (DID, Civic)
+  * DPKI (DID, Civic)
     
-    DNS & CA (Namecoin, Handshake)
+  * DNS & CA (Namecoin, Handshake)
     
-  * Dweb
+* Dweb
   
-    Linked data (Solid)
+  * Linked Data (Solid)
     
-    Blockstack
+  * Blockstack
     
-    ZeroNet
+  * ZeroNet
 
 ## Decentralized Storage
   Member: Yusheng Zhou, Zhengjie Huang, Jueyu Li, Baobao Jia and Weifeng He.
   
-  * Bittorrent and DHT
+* Bittorrent and DHT
   
-  * IPFS and Sia
+* IPFS and Sia
   
-  * DInternet & Privacy (Maidsafe)
+* DInternet & Privacy (Maidsafe)
       
 ## Video & Social Network Applications
   Member: Zepei Lin, Zhengjie Huang, Xiaowen Xu and Yusheng Zhou.
   
-  * Mastodon (Activitypub)
+* Mastodon (Activitypub)
   
-  * Peertube (Webtorrent & RTC)
+* Peertube (Webtorrent & RTC)
 
 
