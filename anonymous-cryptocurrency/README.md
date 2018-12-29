@@ -8,9 +8,9 @@ Member: Yan Chen, Zijie Liu, Liang Xu and Zhengjie Huang.
   - Tor Hidden Service - Zhengjie Huang
 - Difficulty Retarget - Yan Chen
   - [Bitcoin](./btc.md)
-  - Monero
-  - Masari
+  - [Monero](./monero.md)
 - Anti-ASIC POW - Yan Chen
   - [Bitcoin](./btc.md)
+  - [CryptoNight](./monero.md)
   - Cuckoo Cycle
   - Pascal Random Hash
