@@ -13,4 +13,5 @@ Member: Yan Chen, Zijie Liu, Liang Xu and Zhengjie Huang.
   - [Bitcoin](./btc.md)
   - [CryptoNight](./monero.md)
   - [Cuckoo Cycle](./cuckoo.md)
-  - Pascal Random Hash
+  - [Pascal Random Hash](./random_hash.md)
+
