@@ -12,5 +12,5 @@ Member: Yan Chen, Zijie Liu, Liang Xu and Zhengjie Huang.
 - Anti-ASIC POW - Yan Chen
   - [Bitcoin](./btc.md)
   - [CryptoNight](./monero.md)
-  - Cuckoo Cycle
+  - [Cuckoo Cycle](./cuckoo.md)
   - Pascal Random Hash
